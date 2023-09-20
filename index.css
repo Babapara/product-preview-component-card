@@ -1,0 +1,102 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+ }
+    .attribution a {
+         color: hsl(228, 45%, 44%); 
+        }
+
+body{
+    background-color: hsl(30, 38%, 92%);
+    justify-content: center;
+    align-content: center;
+    font-family:'Montesserat' Verdana, Tahoma, sans-serif
+}
+
+.whole-page{
+    grid-template-columns: 1fr 1fr;
+    display:grid;
+     grid-column-gap:0 ;
+     margin-top: 50px;;
+}
+
+.first-slide{
+    grid-column: 1fr;
+    margin-left:66px;
+}
+
+.product{
+    height:490px;
+    width:350px;
+    margin-left: 260px;
+    border-radius:5px;
+    
+}
+.second-slide{
+    grid-column:1fr;
+    background-color: white;
+    width:400px;
+    border-radius:5px;;
+
+}
+
+.container{
+    margin-left:20px;
+}
+
+.french{
+    font-size:30px;
+    font-weight:700;
+    margin-bottom: 30px;
+}
+
+
+.perf{
+    color:hsl(40, 1%, 59%);
+    font-size:20px;
+    margin-bottom: 20px;
+
+}
+
+.description{
+    font-size:19px;
+    color:hsl(0, 0%, 35%);
+    margin-bottom: 20px;
+}
+
+.first-price{
+    color: hsl(158, 36%, 37%);
+    font-weight:800;
+    font-size:30px;
+}
+
+.second-price{
+    text-decoration: line-through;  
+    color:hsl(40, 1%, 59%);
+    font-size:15px;
+}
+
+button{
+    background-color: hsl(158, 36%, 37%);
+    border-color:hsl(158, 36%, 37%) ;
+    width:200px;
+    height:30px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+button:hover,
+button:focus
+{
+    background-color:red;
+    border-color: black;
+}
+
+.cart{
+    color:hsl(0, 0%, 100%);
+
+}
+
+
+img{
+    color:hsl(0, 0%, 100%);
+}
