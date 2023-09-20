@@ -22,7 +22,7 @@ This project is a response to a coding challenge aimed at creating a Product pre
 The challenge was done to build a Product preview card component.
 
 ### Links
-- Live Site URL: 
+- Live Site URL:https://babapara.github.io/product-preview-component-card/ 
 
 
 ### Built with
@@ -35,6 +35,6 @@ vertical margins on inline elements may not behave as expected and they often co
 
 ## Author
 BABAWIBE DUKE
-- Frontend Mentor - [@](https://www.frontendmentor.io/profile/Babapara)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Babapara)
 
 
