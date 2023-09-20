@@ -12,6 +12,11 @@ body{
     align-content: center;
     font-family:'Montesserat' Verdana, Tahoma, sans-serif
 }
+@media (min-width: 750px) {
+  .main {
+    grid-template-columns: 1fr 1fr;
+  }
+}
 
 .whole-page{
     grid-template-columns: 1fr 1fr;
